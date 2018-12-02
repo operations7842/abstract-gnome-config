@@ -1,0 +1,1 @@
+# Abstract Gnome Configuration repository
